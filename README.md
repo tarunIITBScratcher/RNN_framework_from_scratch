@@ -10,10 +10,10 @@ recurrent networks actually compute — not just how to call `.fit()` on a
 library. It's the sequence-model companion to two earlier from-scratch
 projects:
 
-> **[ann_framework_from_scratch](https://github.com/<your-username>/ann_framework_from_scratch)** —
+> **[ann_framework_from_scratch](https://github.com/<your-username>/ANN_framework_from_scratch)** —
 > feed-forward networks (Dense layers, activations, losses, optimizers).
 >
-> **[cnn_framework_from_scratch](https://github.com/<your-username>/cnn_framework_from_scratch)** —
+> **[cnn_framework_from_scratch](https://github.com/<your-username>/CNN_framework_from_scratch)** —
 > convolutional networks (Conv2D/Conv3D, MaxPool2D, Flatten).
 
 This repo reuses the exact same activations/losses/optimizers/`Model`
